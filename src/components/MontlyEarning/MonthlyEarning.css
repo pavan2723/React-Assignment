@@ -1,0 +1,81 @@
+.monthly-earnings {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.title {
+  font-size: 24px;
+  color: #444;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #777;
+}
+
+.chart {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.bar {
+  width: 5%; /* Adjust based on your requirement */
+  height: 50px; /* Placeholder height. Adjust or use dynamic height based on your data */
+  background-color: #e0dede; /* Color from the image */
+  border-radius: 5px 5px 0 0;
+}
+#Jan{
+  width: 5%; /* Adjust based on your requirement */
+  height: 120px;
+}
+#Feb{
+  width: 5%; /* Adjust based on your requirement */
+  height: 100px;
+}
+#Mar{
+  width: 5%; /* Adjust based on your requirement */
+  height: 150px;
+}
+#Apr{
+  width: 5%; /* Adjust based on your requirement */
+  height: 140px;
+}
+#May{
+  width: 5%; /* Adjust based on your requirement */
+  height: 145px;
+}
+#Jun{
+  width: 5%; /* Adjust based on your requirement */
+  height: 70px;
+}
+#Jul{
+  width: 5%; /* Adjust based on your requirement */
+  height: 145px;
+}
+#Aug{
+  width: 5%; /* Adjust based on your requirement */
+  height: 160px;
+  background-color: #6623f6;
+}
+#Sep{
+  width: 5%; /* Adjust based on your requirement */
+  height: 150px;
+}
+#Oct{
+  width: 5%; /* Adjust based on your requirement */
+  height: 135px;
+}
+#Nov{
+  width: 5%; /* Adjust based on your requirement */
+  height: 130px;
+}
+#Dec{
+  width: 5%; /* Adjust based on your requirement */
+  height: 135px;
+}
